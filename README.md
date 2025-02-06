@@ -8,6 +8,7 @@ It uses python with pandas and sklearn on google collab.
 ## What i learned
 
 XGBoost : a tree based model using boosting method  
+Boosting : Multiple model sequentially getting better using the result from the one before  
 Heatmap from seaborn  
 Normalize and Standardize data but tree model so useless (usefull to know for futur project)  
 Metrics : R2_score close to 1 good, MAE close to 0 good  
