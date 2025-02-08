@@ -15,5 +15,5 @@ Metrics : R2_score close to 1 good, MAE close to 0 good
 
 ## Credits
 
-This project has been made by following this video : "https://www.youtube.com/watch?v=fiz1ORTBGpY&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&ab_channel=Siddhardhan" from Siddhardhan channel.
+This project has been made by following this video : "https://www.youtube.com/watch?v=fw5rkjq4Tfo&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=3&ab_channel=Siddhardhan" from Siddhardhan channel.
 
